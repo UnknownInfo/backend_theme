@@ -19,7 +19,7 @@
     "installable": True,
     "depends": [
         'web',
-        'web_responsive',
+        'ow_web_responsive',
 
     ],
     "data": [
